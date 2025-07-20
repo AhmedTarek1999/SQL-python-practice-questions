@@ -15,6 +15,7 @@ This repository helps me:
 - Develop a deeper understanding of **data manipulation** and **algorithmic logic**
 
 ## 🚀 Let's Connect!
-Feel free to explore, suggest improvements, or reach out!
+Feel free to explore, suggest improvements, or reach out!  
+
 📧 [Email](mailto:ahmed.tarek.mohsen@hotmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-tarek99/)  
