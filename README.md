@@ -8,29 +8,6 @@ This space is dedicated to sharpening my problem-solving skills by tackling real
 - [LeetCode](https://leetcode.com/)
 - [DataLemur](https://datalemur.com/)
 
-## 📂 Folder Structure
-
-SQL-python-practice-questions/  
-
-├── SQL/  
-
-│ ├── HackerRank/  
-
-│ ├── LeetCode/  
-
-│ └── DataLemur/  
-
-└── Python/  
-
-├── HackerRank/  
-
-├── LeetCode/  
-
-└── DataLemur/
-
-
-Each folder contains categorized solutions with clear and readable code.
-
 ## 🎯 Purpose
 This repository helps me:
 - Practice **SQL queries** and **Python scripts**
