@@ -10,7 +10,8 @@ This space is dedicated to sharpening my problem-solving skills by tackling real
 
 ## 📂 Folder Structure
 
-SQL-python-practice-questions/
+SQL-python-practice-questions/  
+
 ├── SQL/  
 
 │ ├── HackerRank/  
