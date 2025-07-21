@@ -17,5 +17,5 @@ This repository helps me:
 ## 🚀 Let's Connect!
 Feel free to explore, suggest improvements, or reach out!  
 
-📧 [Email](mailto:ahmed.tarek.mohsen@hotmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/ahmed-tarek99/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/ahmed-tarek99/) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmed.tarek.mohsen@hotmail.com)   
